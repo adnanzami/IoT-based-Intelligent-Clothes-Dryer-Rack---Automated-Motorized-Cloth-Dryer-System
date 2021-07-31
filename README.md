@@ -52,6 +52,9 @@ List of Components:
 ## Usage 
 The report has a detailed explanation on how to combine all the modules and program the Arduino to create this system. Flowcharts and circuit diagrams are available in the Schematics folder to help you understand the working principles. 
 
+## Future Work
+This project can be expanded by improving the design and performance of the wardrobe so that it can be used as a smart furniture. As the wardrobe was designed to work within a bounded region, limitations on locating residence can be solved with the help of a camera and deep learning algorithms. Also, since the LDR sensors are used to detect sunlight, solar panels can be installed onto the system which can further save energy consumption.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
