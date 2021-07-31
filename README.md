@@ -1,4 +1,4 @@
-# IoT based Intelligent Clothes Wardrobe Rack – Automated Motorized Cloth Dryer System
+# IoT based Intelligent Clothes Wardrobe – Automated Motorized Cloth Dryer System
 
 A smart clothes drying rack was built from scratch to automate natural clothes drying process. The rack was designed as a wardrobe with wheels and a collision detection system. It was designed to detect sunlight and optimally position itself to speed up natural drying process within a bounded region. The system had a rain detection sensor which triggered side panels to open and close to protect the clothes from the rain. The wardrobe was connected to the internet to remotely control it using a simple android app.
 
